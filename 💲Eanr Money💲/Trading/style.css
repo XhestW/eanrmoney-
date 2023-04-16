@@ -1,0 +1,23 @@
+html, body{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background: url(bg.png);
+}
+
+.full{
+  top: 10px;
+  margin:auto;
+  width: 10px;
+  padding: 100px;
+  margin-top: 10px;
+  width: 900px;
+  font-family: 'Courier New', Courier, monospace;
+  border: Solid #5f9ea0;
+  border-radius: 30px;
+  border-width: 10px;
+  font-size: 100%;
+  color: aliceblue;
+  
+}
